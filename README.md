@@ -54,11 +54,3 @@ Copy `env.example` to `.env` and update any required keys.
 copy env.example .env
 ```
 
-## License
-
-MIT
-
----
-
-**Credits:**  
-Based on [developerFolio](https://github.com/saadpasta/developerFolio)."# Lavish_portfolio" 
